@@ -7,7 +7,7 @@ from sklearn.preprocessing import LabelEncoder
 
 st.set_page_config(page_title='ABC Bank',
                    page_icon='💰', layout='wide')
-st.title('Churn prediction 🚶‍♀️ for ABC Bank')
+st.title('Churn prediction 🚶‍♀️- ABC Bank')
 
 
 def model_predict(coln):
